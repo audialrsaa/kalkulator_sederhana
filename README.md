@@ -44,5 +44,5 @@ User bisa membuat rencana tabungan, menambah nominal tabungan, dan melihat progr
 ## Cara Menjalankan
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username/saving-app.git
-   cd saving-app
+   git clone https://github.com/audialrsaa/kalkulator_sederhana.git
+   cd kalkulator_sederhana
